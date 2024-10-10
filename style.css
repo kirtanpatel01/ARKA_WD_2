@@ -153,6 +153,10 @@ img:hover {
   color: #333; /* Dark text for light theme */
 }
 
+.light-mode h1 {
+  color: #000;
+}
+
 .light-mode main {
   color: #333;
   border: solid 1.5px #00acc1;

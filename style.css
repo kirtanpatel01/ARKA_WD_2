@@ -155,7 +155,7 @@ img:hover {
 /* Light Theme Styles */
 .light-mode {
   background-color: #f4f4f4;
-  color: #333; /* Dark text for light theme */
+  color: #000000; /* Dark text for light theme */
 }
 
 .light-mode h1 {
@@ -163,7 +163,7 @@ img:hover {
 }
 
 .light-mode main {
-  color: #333;
+  color: #000;
   border: solid 1.5px #00acc1;
 }
 
@@ -172,16 +172,16 @@ img:hover {
 }
 
 .light-mode .clock {
-  color: #006064;
+  color: #000;
 }
 
 .light-mode .time-unit {
   background-color: #80deea;
-  color: #006064;
+  color: #000;
 }
 
 .light-mode .separator {
-  color: #006064;
+  color: #000;
 }
 
 .light-mode .v_line {
@@ -202,15 +202,15 @@ img:hover {
 
 .light-mode .time-stamp-list {
   background-color: #ffffff;
-  color: #333;
+  color: #000;
 }
 
 .light-mode #theme-btn {
-  color: #333;
+  color: #000;
 }
 
 .light-mode #theme-btn:hover {
-  color: #006064;
+  color: #000;
 }
 
 @media (max-width: 1024px) {

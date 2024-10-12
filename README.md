@@ -52,7 +52,7 @@ To run this project locally, follow these steps:
 
 ## 📸 Screenshots
 
-![Kiton's Stop Watch Screenshot](./images/screenshot.png)
+![Kiton's Stop Watch Screenshot](./images/image.png)
 
 ## 🔧 Development
 

@@ -65,7 +65,3 @@ Feel free to contribute! Fork this repository, make your changes, and submit a p
 3. Commit your changes (`git commit -m 'Add new feature'`).
 4. Push the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
-
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
